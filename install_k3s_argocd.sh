@@ -1,3 +1,6 @@
+#!/bin/bash
+set -e
+
 # 1. Update the system
 sudo apt update && sudo apt upgrade -y
 
